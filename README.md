@@ -14,7 +14,7 @@ If you take use of our code or feel our paper is useful for you, please cite our
 
 ```
 @article{mei2023unsupervised,
-    author    = {Guofeng Mei and Hao Tang and Xiaoshui Huang and Weijie Wang and Juan Liu and Jian Zhang and  Luc Van Gool and Qiang Wu},
+    author    = {Guofeng Mei and Hao Tang and Xiaoshui Huang and Weijie Wang and Juan Liu and Jian Zhang and Luc Van Gool and Qiang Wu},
     title     = {Unsupervised Deep Probabilistic Approach for Partial Point Cloud Registration},
     journal   = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     year      = {2023}
