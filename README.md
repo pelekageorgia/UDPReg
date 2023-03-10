@@ -1,4 +1,4 @@
-## Unsupervised Deep Probabilistic Approach for Partial Point Cloud Registration, CVPR2023
+## Unsupervised Deep Probabilistic Approach for Partial Point Cloud Registration
 
 The repository offers the official implementation of our paper in PyTorch.
 
