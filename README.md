@@ -1,6 +1,7 @@
 ## Unsupervised Deep Probabilistic Approach for Partial Point Cloud Registration, CVPR2023
 
 The repository offers the official implementation of our paper in PyTorch.
+
 :t-rex:News(March 4, 2023)!  **Our paper is accepted by CVPR2023!**
 
 ### Abstract
@@ -20,4 +21,4 @@ If you take use of our code or feel our paper is useful for you, please cite our
 }
 ```
 
-If you have any questions, please contact me without hesitation (gfmeiwhu AT outlook.com orliu juan AT bit.edu.au).
+If you have any questions, please contact me without hesitation (gfmeiwhu@outlook.com orliu juan@bit.edu.au).
